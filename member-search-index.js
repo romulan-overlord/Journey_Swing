@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"<Unnamed>","c":"MainWindow","l":"actionPerformed(ActionEvent)","url":"actionPerformed(java.awt.event.ActionEvent)"},{"p":"<Unnamed>","c":"MainWindow","l":"main(String[])","url":"main(java.lang.String[])"}]
