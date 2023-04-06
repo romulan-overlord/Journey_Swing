@@ -1,2 +1,2 @@
 # GUI
-sm0l project to try replicate journey.com
+small project to try replicate journey.com using java swing.
